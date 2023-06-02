@@ -10,7 +10,7 @@ provider "aws" {
 }
 
 variable "vault_addr" {
-    default = "https://vault-stoffee-io.vault.f4cfade2-df28-47f2-a365-28cd5d95d9a0.aws.hashicorp.cloud:8200"
+    default = "https://vault-dev.vault.0g000000-0000-0000-0000-000000000000.aws.hashicorp.cloud:8200"
 }
 variable "vault_token" {
 }
